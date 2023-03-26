@@ -1,0 +1,30 @@
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -59,8 +59,14 @@
+                       <label>
+                         <input type="radio" name="foundation" value="NBUAccount">
+                         <span>Рахунок НБУ</span>
+                       </label>
++                      <label>
++                        <input type="radio"
++                        name="foundation"
++                        value="Victoryisours">
++                        <span>Перемога за нами</span>
++                        </label> 
+                     </div>
+                     <div class="pay__card">
+                         <div class="pay__first-card-col">
+                             <label>
+@@ -91,9 +97,9 @@
+             </section>
+           </main>
+           <footer>
+             <p>Створено як навчальний проєкт курсу "Знайомство з ІТ: тестдрайв професій" від Prometheus.</p>
+-            <p>Serhii Babii</p>
++            <p>Bendryk Svitlana</p>     
+           </footer>
+     </div>
+ </body>
+ </html>
+\ No newline at end of file
